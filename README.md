@@ -12,7 +12,7 @@
 
 ## 在线使用
 
-访问 [https://marshallwang07.github.io/daily-quotes](https://marshallwang07.github.io/daily-quotes)
+访问 https://marshallwang07.github.io/daily-quotes/
 
 ## 本地运行
 
